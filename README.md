@@ -1,0 +1,2 @@
+# Heart-Disease-Data
+Here is a data set about heart features that cause heart disease or not. I would like to explore this data by using supervised learning and to see what are the causes of heart diseases. This data set includes parameters about the heart such as the age of the tested person, his gender, resting blood pressure, maximum heart rate achieved and etc. In this data set, the column "target" is the one who tells us if the tested person has heart disease.
